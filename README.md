@@ -1,4 +1,4 @@
-Open Source vs Microsoft Azure AI: Best Alternatives for Modern AI Workflows
+Open Source vs Microsoft Azure AI: Alternatives for Modern AI Workflows
 
 
 | SNo. | MS Tool/Service             | OSS 1 (Rank)             | OSS 2           | OSS 3           | OSS 4                  | OSS 5       | GCP Equivalent             | AWS Equivalent               |
