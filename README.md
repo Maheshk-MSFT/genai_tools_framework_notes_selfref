@@ -18,14 +18,15 @@ Open Source vs Microsoft Azure AI: Best Alternatives for Modern AI Workflows
 
 Other supporting services
 --------------------------
-Azure Functions
-Azure Kubernetes Service (AKS)
-Azure Container Apps
-Azure App Service
-Azure Logic Apps
-Azure Service Bus
-Azure Event Grid
-Azure Cosmos DB
-Azure Storage
-Azure Key Vault
-Azure Monitor
+- Azure Functions
+- Azure Kubernetes Service (AKS)
+- Azure Container Apps
+- Azure App Service
+- Azure Logic Apps
+- Azure Service Bus
+- Azure Event Grid
+- Azure Cosmos DB
+- Azure Storage
+- Azure Key Vault
+- Azure Monitor
+
