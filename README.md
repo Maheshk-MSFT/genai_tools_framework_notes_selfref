@@ -1,7 +1,7 @@
 Open Source vs Microsoft Azure AI: Best Alternatives for Modern AI Workflows
 
 
-| MS Tool/Service                  | Open Source 1              | Open Source 2        | Open Source 3       | Open Source 4                | Open Source 5        | GCP Equivalent                | AWS Equivalent                  |
+| MS Tool/Service                  | OSS 1 (Rank)              | OSS 2        | OSS 3       | OSS 4                | OSS 5        | GCP                 | AWS                   |
 |----------------------------------|----------------------------|----------------------|---------------------|-------------------------------|----------------------|-------------------------------|-------------------------------|
 | Azure OpenAI Service             | Hugging Face Transformers  | OpenLLaMA            | LlamaIndex          | OpenChatKit                   | FastChat             | Vertex AI                     | Bedrock, SageMaker            |
 | Semantic Kernel                  | LangChain                  | Haystack             | LlamaIndex          | CrewAI                        | AutoGen              | Vertex AI Agent Builder        | Bedrock, Agents for Bedrock   |
