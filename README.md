@@ -4,7 +4,7 @@
 
 | SNo. | MS Tool/Service             | OSS 1 (Rank)             | OSS 2           | OSS 3           | OSS 4                  | OSS 5       | GCP Equivalent             | AWS Equivalent               |
 |------|----------------------------|--------------------------|-----------------|-----------------|------------------------|-------------|----------------------------|------------------------------|
-| 1    | Azure OpenAI Service       | Hugging Face Transformers| OpenLLaMA       | LlamaIndex      | OpenChatKit            | FastChat    | Vertex AI                  | Bedrock, SageMaker           |
+| 1    | Azure OpenAI Service       | Hugging Face Transformers| OpenLLaMA       | LlamaIndex      | BricksLLM             | FastChat    | Vertex AI                  | Bedrock, SageMaker           |
 | 2    | Semantic Kernel            | LangChain                | Haystack        | LlamaIndex      | CrewAI                 | AutoGen     | Vertex AI Agent Builder     | Bedrock, Agents for Bedrock  |
 | 3    | Azure AI Foundry           | TensorFlow               | Keras           | Hugging Face    | PyTorch                | FastAI      | Vertex AI                  | SageMaker                    |
 | 4    | Azure AI Evaluation SDK    | lm-evaluation-harness    | Ragas           | OpenPromptEval  | Eleuther Eval Harness  | OpenLMEval  | Vertex AI                  | SageMaker                    |
