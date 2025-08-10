@@ -35,5 +35,50 @@ Other supporting services
 
 Vector Databases
 --------------------------
-- Commeercial: Pinecone, DataSax
-- OSS: Weaviate, Milvus, Chroma, ElasticSearch, Qdrant
+- Dedicated Commeercial Vector DB:
+    - Pinecone - used by companies like MS, Shopify, Notion
+    - DataSax
+    - Zilliz cloud (managed milvus offering)
+- Dedicated OSS Commercial Vector DB:
+    - Weaviate - hybrid search, uses GraphQL API
+    - Milvus - used by Salesforce, IKEA, Paypal
+    - Chroma - startups, smb
+    - ElasticSearch
+    - Qdrant - Bosch, Mozilla, Perplexity
+    - Faiss - Facebook AI similarity search
+    - Vespa - by yahoo, lexical search
+    - Deep Lake
+    - Vald
+    - Valkey 
+- Traditiona databases with vector capabilities:
+    - PostgrSQL with pgVector
+    - OpenSearch
+    - Apache Cassandra
+    - Clickhouse
+    - Redis
+    - SingleStoreDB
+    - MongoDB Atlas Vector Search
+    - CockroachDB
+=================================================================
+- Azure Vector DB options
+    - Azure Cosmos DB for NoSQL - Native DiskANN indexing
+    - Azure Cosmos DB for MongoDB - vector search with embeddings
+    - Azure Cosmos for PostGreSQL - Native vector data type (preview)
+    - Azure Database for PostGreSQL - pgvector extension
+    - Azure Search AI - Built in vector search
+    - Azure SQL Database
+- AWS
+    - Amazon S3 vectors
+    - Aurora postgreSQL - HNSW
+    - Amazon RDS for PostgreSQL - pgvector extension
+    - Amazon OpenSearch Service - Native k-NN
+    - Amazon Kendra - Built in intelligent search and vector capabilities
+    - Amazon MemoryDB in Redis
+- Google
+    - AlloyDB for PostGreSQL - pgvector - scanNN indexing (scalable nearest neighbours)
+    - Cloud SQL for PostGreSQL - pgvector extension
+    - Vertex AI Vector search
+    - Firestore - vector embeddings + vertex ai integration
+    - Bigtable - vector embeddings + vertext ai integration
+    - Cloud Spanner - vectors columns wiht SQL extensions
+      
