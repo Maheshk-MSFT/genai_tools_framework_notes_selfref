@@ -36,4 +36,4 @@ Other supporting services
 Vector Databases
 --------------------------
 - Commeercial: Pinecone, DataSax
-- OSS: Weaviate, Milvus, Chroma, ElasticSearch, Quadrant
+- OSS: Weaviate, Milvus, Chroma, ElasticSearch, Qdrant
