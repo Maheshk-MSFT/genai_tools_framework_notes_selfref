@@ -59,6 +59,7 @@ Vector Databases
     - SingleStoreDB
     - MongoDB Atlas Vector Search
     - CockroachDB
+
 =================================================================
 - Azure Vector DB options
     - Azure Cosmos DB for NoSQL - Native DiskANN indexing
