@@ -82,6 +82,7 @@ Vector Databases
     - Firestore - vector embeddings + vertex ai integration
     - Bigtable - vector embeddings + vertext ai integration
     - Cloud Spanner - vectors columns wiht SQL extensions
+      
 =================================================================
 - For text data embedding - create vector representations of words and sentences
     - OpenAI’s text-embedding-3
@@ -93,4 +94,5 @@ Vector Databases
 	- Word2Vec
 - For image data - CNNs like VGG, Inception or CLIP from OpenAI - extract feature vectors from images 
 - For audio data - Spectrogram
-      
+  
+=================================================================
