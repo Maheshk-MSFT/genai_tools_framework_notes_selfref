@@ -33,3 +33,7 @@ Other supporting services
 - Azure Active Directory
 - Azure Redis Cache
 
+Vector Databases
+--------------------------
+- Commeercial: Pinecone, DataSax
+- OSS: Weaviate, Milvus, Chroma, ElasticSearch, Quadrant
