@@ -49,16 +49,19 @@ Vector Databases
     - Vespa - by yahoo, lexical search
     - Deep Lake
     - Vald
-    - Valkey 
+    - Valkey
+    - Marqo
+    - LanceDB
 - Traditiona databases with vector capabilities:
     - PostgrSQL with pgVector
     - OpenSearch
     - Apache Cassandra
-    - Clickhouse
+    - ClickHouse
     - Redis
     - SingleStoreDB
     - MongoDB Atlas Vector Search
     - CockroachDB
+    - elasticsearch
 
 =================================================================
 - Azure Vector DB options
