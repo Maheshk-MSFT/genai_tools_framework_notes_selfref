@@ -99,6 +99,7 @@ Vector Databases
 - For audio data - Spectrogram
   
 =================================================================
+
 Aug/19/2025
 - Companies having universal API endpoint - abstraction framework to handle LLM's in the backend 
     - (1) OpenRouter - managed AI gateway focused on providing unified access to multiple LLM providers
