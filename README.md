@@ -99,3 +99,18 @@ Vector Databases
 - For audio data - Spectrogram
   
 =================================================================
+Aug/19/2025
+- Companies having universal API endpoint - abstraction framework to handle LLM's in the backend 
+    - (1) OpenRouter - managed AI gateway focused on providing unified access to multiple LLM providers
+      	- aggregates 400+ models from 50+ providers
+      	- single API endpoint with OpenAI-compatible interface
+      	- provider abstraction layer handles authentication, billing, and routing
+	- (2) TreuFactory - comprehensive MLOps platform that includes an AI gateway as part of a broader ML lifecycle management solution
+   		- kubernetes-native platform deployed on your infrastructure
+    - (3) Microsoft AI Foundry Universal API Design
+      	- easy model switching without code changes
+      	- serves as the gateway to 1900+ models from multiple providers
+      	- a single inference endpoint
+      	- eliminates the need for developers to manage separate endpoints, authentication schemes, or API contracts for different model providers
+    - (4) LiteLLM - Multi-cloud flexibility, often cheaper, community-driven
+
