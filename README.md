@@ -98,7 +98,7 @@ Vector Databases
 - For image data - CNNs like VGG, Inception or CLIP from OpenAI - extract feature vectors from images 
 - For audio data - Spectrogram
 
-Aug/19/2025
+**Aug/19/2025**
 - Companies having universal API endpoint - abstraction framework to handle LLM's in the backend 
     - (1) OpenRouter - managed AI gateway focused on providing unified access to multiple LLM providers
       	- aggregates 400+ models from 50+ providers
@@ -114,6 +114,6 @@ Aug/19/2025
     - (4) LiteLLM - Multi-cloud flexibility, often cheaper, community-driven
 
 
-Sep/20/2025
+**Sep/20/2025**
 - Programming : Python, Jupyter labs, Hugging face, Pytorch, TensorFlow
 - Monitoring: Streamlit, TensorBoard, Grafana
