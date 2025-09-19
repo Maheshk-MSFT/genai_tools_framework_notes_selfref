@@ -99,7 +99,9 @@ Vector Databases
 - For audio data - Spectrogram
   
 =================================================================
-
+Programming : Python, Jupyter labs, Hugging face, Pytorch, TensorFlow 
+Monitoring: Streamlit, TensorBoard, Grafana
+=================================================================
 Aug/19/2025
 - Companies having universal API endpoint - abstraction framework to handle LLM's in the backend 
     - (1) OpenRouter - managed AI gateway focused on providing unified access to multiple LLM providers
