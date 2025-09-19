@@ -7,7 +7,7 @@
 | 1    | Azure OpenAI Service       | Hugging Face Transformers| Ollama          | LlamaIndex      | BricksLLM              | FastChat    | Vertex AI                  | Bedrock, SageMaker           |
 | 2    | Semantic Kernel            | LangChain                | Haystack        | LlamaIndex      | CrewAI                 | AutoGen     | Vertex AI Agent Builder    | Bedrock, Agents for Bedrock  |
 | 3    | Azure AI Foundry           | TensorFlow Hub           | Kubeflow        | Hugging Face    | PyTorch                | FastAI      | Vertex AI Workbench        | SageMaker                    |
-| 4    | Azure AI Evaluation SDK    | Evidently AI    | Ragas           | MLflow Evaluation  | DeepEval  | OpenLMEval  | Vertex AI Model Evaluation                   | SageMaker Model Monitor                    |
+| 4    | Azure AI Evaluation SDK    | Evidently AI    | RAGAS           | MLflow Evaluation  | DeepEval, BLEU, ROUGE  | OpenLMEval  | Vertex AI Model Evaluation                   | SageMaker Model Monitor                    |
 | 5    | Azure AI Inference SDK     | DeepSpeed                | vLLM            | ONNX Runtime    | Hugging Face Inference | TGI         | Vertex AI                  | SageMaker                    |
 | 6    | Azure AI Agent Service     | AutoGen                   | CrewAI        | FastAgency      | Autogen                | Langroid    | Agent Builder (Vertex AI)   | Agents for Bedrock           |
 | 7    | Azure Content Safety       | Detoxify                 | Perspective API | WebPurify API   | OpenAI Moderation  API    | Aestron     | Content Safety API (Vertex AI)| AWS Content Moderation    |
@@ -97,7 +97,6 @@ Vector Databases
 	- Word2Vec
 - For image data - CNNs like VGG, Inception or CLIP from OpenAI - extract feature vectors from images 
 - For audio data - Spectrogram
-  
 =================================================================
 Programming : Python, Jupyter labs, Hugging face, Pytorch, TensorFlow 
 Monitoring: Streamlit, TensorBoard, Grafana
