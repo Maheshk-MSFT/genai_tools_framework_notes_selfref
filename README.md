@@ -64,6 +64,7 @@ Vector Databases
     - elasticsearch
 
 =================================================================
+
 - Azure Vector DB options
     - Azure Cosmos DB for NoSQL - Native DiskANN indexing
     - Azure Cosmos DB for MongoDB - vector search with embeddings
@@ -98,6 +99,7 @@ Vector Databases
 	- Word2Vec
 - For image data - CNNs like VGG, Inception or CLIP from OpenAI - extract feature vectors from images 
 - For audio data - Spectrogram
+  
 =================================================================
 
 **Aug/19/2025**
@@ -114,11 +116,13 @@ Vector Databases
       	- a single inference endpoint
       	- eliminates the need for developers to manage separate endpoints, authentication schemes, or API contracts for different model providers
     - (4) LiteLLM - Multi-cloud flexibility, often cheaper, community-driven
+      
 =================================================================
 
 **Sep/20/2025**
 - Programming : Python, Jupyter labs, Hugging face, Pytorch, TensorFlow
 - Monitoring: Streamlit, TensorBoard, Grafana
+  
 =================================================================
 
 **Sep/21/2025**
